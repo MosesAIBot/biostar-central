@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 90 20" style="enable-background:new 0 0 90 20;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000145754235656938177240000000639185893290655375_);}
+	.st1{fill:#555555;}
+	.st2{fill:#97CA00;}
+	.st3{fill:url(#SVGID_00000054987014316591107030000009826102588844825262_);}
+	.st4{enable-background:new    ;}
+	.st5{fill:#010101;}
+	.st6{font-family:'Verdana';}
+	.st7{font-size:11px;}
+	.st8{fill:#FFFFFF;}
+	.st9{fill:none;}
+	.st10{letter-spacing:1;}
+</style>
+<g>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M3,0h84c1.7,0,3,1.3,3,3v14c0,1.7-1.3,3-3,3H3c-1.7,0-3-1.3-3-3V3C0,1.3,1.3,0,3,0z"/>
+		</defs>
+		<clipPath id="SVGID_00000005236166446773261330000001192251303005513091_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_00000005236166446773261330000001192251303005513091_);">
+			<path class="st1" d="M0,0h47v20H0V0z"/>
+			<path class="st2" d="M47,0h43v20H47V0z"/>
+			
+				<linearGradient id="SVGID_00000114045321658715685880000007659579101764882304_" gradientUnits="userSpaceOnUse" x1="-1807.1888" y1="52.9" x2="-1807.1888" y2="53.9" gradientTransform="matrix(90 0 0 20 162692 -1058)">
+				<stop  offset="0" style="stop-color:#BBBBBB;stop-opacity:0.1"/>
+				<stop  offset="1" style="stop-color:#000000;stop-opacity:0.1"/>
+			</linearGradient>
+			<path style="fill:url(#SVGID_00000114045321658715685880000007659579101764882304_);" d="M-15,0h120v20H-15V0z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g class="st4">
+		<text transform="matrix(1 0 0 1 5.543 15)" class="st5 st6 st7">Thrive</text>
+	</g>
+	<text transform="matrix(1 0 0 1 5.6443 13.3011)" class="st8 st6 st7">Thrive</text>
+	<rect x="51.1" y="5.5" class="st9" width="33" height="12.8"/>
+	<text transform="matrix(1 0 0 1 51.0508 15)" class="st5 st6 st7 st10">Hive</text>
+	<rect x="51.1" y="3.8" class="st9" width="33" height="12.8"/>
+	<text transform="matrix(1 0 0 1 51.1002 13.4331)" class="st8 st6 st7 st10">Hive</text>
+</g>
+</svg>
